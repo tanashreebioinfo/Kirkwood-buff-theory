@@ -1,4 +1,4 @@
-# Method-development1 (1. Kernel-density-based-spatial distribution estimation(SPD))
+# Method-development2(Kirk-Wood buff theory)
 
 This repository consist Python codes written for calculating preferentail intercation coefficients using Kirk-wood-Burf integral apparoch. This methods are useful to calculate preference of solvent towrads the solute. example of urea prefernce towards tryptophan moleucles is shown.
 

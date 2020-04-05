@@ -46,3 +46,6 @@ bash kb.sh
 
 
 
+###Related Publication where this method is implemented 
+
+https://www.nature.com/articles/s41598-019-45010-8
